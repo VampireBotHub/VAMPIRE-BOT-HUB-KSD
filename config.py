@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","llKILLER_OPll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","@llVAMPIRE_KINGll")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "riya_Xmusic_bot")
 # --------------------------------------------------------
@@ -38,7 +38,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1002018556839))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6762113050))
+OWNER_ID = int(getenv("OWNER_ID", 8098941116)
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/KILLER_UPDATE")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/KILLER_UPDATE")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/llEDITING_ZONEll")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/llEDITING_ZONEll")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,7 +141,7 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/95wgq9.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/bp0aqu.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://files.catbox.moe/95wgq9.jpg"
