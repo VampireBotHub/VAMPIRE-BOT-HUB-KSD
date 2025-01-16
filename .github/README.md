@@ -1,9 +1,9 @@
 <h2 align="center">
-    𓆰⎯꯭꯭̽༎𝅃꯭꯭᳚𝚱꯭𝚰𝐋꯭𝐋꯭𝚵꯭𝐑𓆩꯭🜲꯭𓆪꯭𝚯꯭𝚸𝆺꯭𝅥༎ࠫ𐏓꯭᪵
+    🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪🍷˶꯭꯭꯭֟፝͟͢͝⏎͟›͢〖ᵒʷⁿᵉʳ⛧‌
 
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+ʟᴏᴠᴇ+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗘𝗔𝗠+𝗞𝗜𝗟𝗟𝗘𝗥+𝗢𝗣)](https://github.com/ksdofficial8/Riya_music)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+ʟᴏᴠᴇ+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗘𝗔𝗠+🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪🍷)](https://github.com/ksdofficial8/Riya_music)
 
 
 
@@ -24,8 +24,8 @@
 ## 🖇 𝗗𝗘𝗠𝗢 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧
 
 <p>
-<a href="https://t.me/@ROSE_X_MUSICBOT"><img src="https://img.shields.io/badge/KSD%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
-<a href="https://t.me/@LOVEXMUSICROBOT-Gen"><img src="https://img.shields.io/badge/RIYA%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+<a href="http://t.me/AVNI_MUSIC_ROBOT"><img src="https://img.shields.io/badge/KSD%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+<a href="https://t.me/@AVNI_MUSIC_ROBOT-Gen"><img src="https://img.shields.io/badge/RIYA%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 
 
 <h3 align="center">
@@ -40,10 +40,10 @@
 
 
 <p align="center">
-<a href="https://telegram.me/llKILLER_OPll"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗞𝗜𝗟𝗟𝗘𝗥 𝗢𝗣%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="http://t.me/llVAMPIRE_KINGll"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪🍷%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/llKILLER_OPll"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗞𝗜𝗟𝗟𝗘𝗥 𝗢𝗣%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="http://t.me/llVAMPIRE_KINGll"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
